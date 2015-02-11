@@ -1,0 +1,18 @@
+
+ Tower of Hanoi
+Enter the number of disks 
+Move disk 1 from tower X to tower Z 
+Move disk 2 from tower X, to tower Y 
+Move disk 1 from tower Z to tower Y 
+Move disk 3 from tower X, to tower Z 
+Move disk 1 from tower Y to tower X 
+Move disk 2 from tower Y, to tower Z 
+Move disk 1 from tower X to tower Z 
+Move disk 4 from tower X, to tower Y 
+Move disk 1 from tower Z to tower Y 
+Move disk 2 from tower Z, to tower X 
+Move disk 1 from tower Y to tower X 
+Move disk 3 from tower Z, to tower Y 
+Move disk 1 from tower X to tower Z 
+Move disk 2 from tower X, to tower Y 
+Move disk 1 from tower Z to tower Y 
